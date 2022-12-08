@@ -25,4 +25,4 @@ Please refer to the LICENSE in the repo.
 
 [Mock-up Reference](https://github.com/smcgarr13/module-1-challenge/commit/031a3b71ba034fd162c96f751e1570a6087bff8c#diff-135eabebdbeeb9d38c70fcbc534967be3b5eaf1ba415998beec81ae9603980a4 "screenshot of site")
 
-[Deployed Website] https://smcgarr13.github.io/module-1-challenge/
+[Deployed Website] https://smcgarr13.github.io/module-1-challenge-final/
