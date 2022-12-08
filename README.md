@@ -1,4 +1,4 @@
-# module-1-challenge-1
+# module-1-challenge-final
 
 ## Description
 
