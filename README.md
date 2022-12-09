@@ -22,7 +22,6 @@ N/A
 
 Please refer to the LICENSE in the repo.
 
-
-[Mock-up Reference](https://github.com/smcgarr13/module-1-challenge/commit/031a3b71ba034fd162c96f751e1570a6087bff8c#diff-135eabebdbeeb9d38c70fcbc534967be3b5eaf1ba415998beec81ae9603980a4 "screenshot of site")
+![module-1-challenge-screenshot](https://user-images.githubusercontent.com/117788958/206619789-736dc5a9-0920-4a81-9d27-7a4e2d2b488b.png)
 
 [Deployed Website] https://smcgarr13.github.io/module-1-challenge-final/
